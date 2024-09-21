@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Sandie",
+        "last_name": "Wade",
+        "email": "swade0@ebay.co.uk",
+        "gender": "Female"
+    },
+    {
+        "id": 2,
+        "first_name": "Avril",
+        "last_name": "Copeman",
+        "email": "acopeman1@aboutads.info",
+        "gender": "Female"
+    },
+    {
+        "id": 3,
+        "first_name": "Ethyl",
+        "last_name": "Spedroni",
+        "email": "espedroni2@flickr.com",
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "first_name": "Joyann",
+        "last_name": "Shailer",
+        "email": "jshailer3@fc2.com",
+        "gender": "Female"
+    },
+    {
+        "id": 5,
+        "first_name": "Anabella",
+        "last_name": "Clousley",
+        "email": "aclousley4@nymag.com",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Sharyl",
+        "last_name": "Danilin",
+        "email": "sdanilin5@umich.edu",
+        "gender": "Female"
+    },
+    {
+        "id": 7,
+        "first_name": "Katrinka",
+        "last_name": "Ship",
+        "email": "kship6@yandex.ru",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Shirlene",
+        "last_name": "Cafferty",
+        "email": "scafferty7@blogspot.com",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "first_name": "Frieda",
+        "last_name": "Manhare",
+        "email": "fmanhare8@meetup.com",
+        "gender": "Female"
+    },
+    {
+        "id": 10,
+        "first_name": "Edsel",
+        "last_name": "Moynham",
+        "email": "emoynham9@deviantart.com",
+        "gender": "Male"
+    }
+]
